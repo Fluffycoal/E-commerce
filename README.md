@@ -12,7 +12,8 @@ order: Represents orders placed by customers with fields for order date and tota
 1. Clone the repository
 
 2. Create a virtual environment
-
+'python -m venv venv'
+'venv/bin/activate' #for Windows
 3. Install requirements
 'pip install django'
 
